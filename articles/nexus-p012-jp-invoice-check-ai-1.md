@@ -60,3 +60,4 @@ pip install "git+https://github.com/ayatrader/jp-invoice-check"
 https://github.com/ayatrader/jp-invoice-check
 
 標準ライブラリだけで、外部と通信しません。MIT ライセンスです。登録番号が今も有効かは確かめないので、必要なら国税庁の公表サイトで確認してください。税務の助言ではありません。迷う場合は税理士に相談してください。
+
